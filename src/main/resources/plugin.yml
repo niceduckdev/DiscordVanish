@@ -1,0 +1,10 @@
+name: DiscordVanish
+version: '${project.version}'
+main: niceduckdev.discordsrvvanish.DiscordsrvVanish
+api-version: 1.19
+authors: [ niceduckdev ]
+description: Vanish plugin that sends fake messages via DiscordSRV!
+website: niceduckdev.xyz
+depend:
+  - DiscordSRV
+  - SuperVanish
